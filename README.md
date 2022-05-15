@@ -33,7 +33,7 @@ BUT, our logo and name are important, copyrighted parts of our brand, and we mus
 - 🚫 Use our Brand Assets (logo, icon, name,) or any derivative works in any product/brand name, brand logo, etc. that can conflict or compete with BendDAO. For example:
   - Don’t make an NFT liquidity protocol called “BendLiquidity”
   - Don’t make an NFT exchange marketplace called “BendExchange”
-  - Don’t make a digital art brand or product with a similarly-shaped diamond logo with an eye, even if it’s colored yellow or something.
+  - Don’t make a digital art brand or product with a similarly-shaped Möbiusband logo with curves, even if it’s colored yellow or something.
   - Don’t make a product called “BendDAO Tools” or similar that may be misinterpreted as having an official relationship to BendDAO.
 - 🚫 Use or remix any of our Brand Assets to imply an official relationship, partnership, or other endorsement where there is none.
 - 🚫 Use the name “BendDAO” in full in social media channels in a way that implies any official relationship to us. If you make a fan group, Twitter account etc., make it clear that it’s not official.
