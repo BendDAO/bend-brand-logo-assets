@@ -17,14 +17,14 @@ A community social media kit so you can rep the project on Discord, Twitter, Ins
 
 [Download the Assets](https://github.com/BendDAO/bend-brand-logo-assets/raw/main/BendDAO_Brand_Assets-2022205151745.zip)
 
-## Intro
+## Introduction
 BendDAO is pretty open minded and flexible with our icon, but not our name.
 
 We encourage creators to make derivative artworks based on the icon, and tbh we wanna see the community get real weird with it. If you’re selling derivative works, please give attribution and make sure you follow the guidelines here carefully so we don’t have a disagreement. If it’s dope, @ us on social so we don't miss it!
 
 BUT, our logo and name are important, copyrighted parts of our brand, and we must protect them. So let’s go over a few ground rules.
 
-## What Can I Do?**
+## What Can I Do?
 **✅👌🙂 You may:**
 - ✅ Recreate, remix, create derivative artworks featuring the Möbiusband icon, with attribution.
 - ✅ Buy and sell said derivatives, if you give attribution.
@@ -42,5 +42,21 @@ BUT, our logo and name are important, copyrighted parts of our brand, and we mus
 If in doubt, reach out to support@benddao.xyz
 
 ## Logo Guidelines
-TBD
 
+### Logo Anatomy
+
+### Logo Variations
+
+## Logo Colors
+Blue is BendDAO’s brand color. It’s vibrant, saturated, slightly acidic, and generally stands out because it’s great. We like the blue.
+
+### Logo Restrictions
+Common sense stuff really.
+
+- Don’t move the icon to the left
+- Don’t remove the icon
+- Don’t change the text color
+- Don’t break up the name in the horizontal lockup (vertical lockup is unavoidable)
+- Don’t add drop shadows or distort the text
+- Don’t add outlines or other effects
+- Don’t change the typeface or otherwise reconstruct the logo
