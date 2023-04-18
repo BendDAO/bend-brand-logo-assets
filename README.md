@@ -15,7 +15,7 @@ BendDAO logos
 Device wallpapers / brand images
 A community social media kit so you can rep the project on Discord, Twitter, Instagram... and other NFT marketplaces!
 
-[Download the Assets](https://github.com/BendDAO/bend-brand-logo-assets/raw/main/BendDAO_Brand_Assets-2022205151745.zip)
+[Download the Assets](https://github.com/BendDAO/bend-brand-logo-assets/blob/main/BendDAO_Brand_Assets-20220915.zip)
 
 ## Introduction
 BendDAO is pretty open minded and flexible with our icon, but not our name.
