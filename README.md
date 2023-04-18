@@ -1,4 +1,4 @@
-# Brand, Logos & Usage
+# Brand, Logos & Usage 
 >**Please read the usage guidelines fully before you use our logo and brand assets.**
 
 These guidelines cover our brand assets, including but not limited to:
@@ -7,7 +7,7 @@ These guidelines cover our brand assets, including but not limited to:
 - The BendDAO logo (text and icon)
 - The BEND Möbiusband icon
 
-## Download BendDAO Logo and Brand Assets
+## Download BendDAO Logo and Brand Assets 
 
 This ZIP file contains:
 
@@ -17,7 +17,7 @@ A community social media kit so you can rep the project on Discord, Twitter, Ins
 
 [Download the Assets](https://github.com/BendDAO/bend-brand-logo-assets/blob/main/BendDAO_Brand_Assets-20220915.zip)
 
-## Introduction
+## Introduction 
 BendDAO is pretty open minded and flexible with our icon, but not our name.
 
 We encourage creators to make derivative artworks based on the icon, and tbh we wanna see the community get real weird with it. If you’re selling derivative works, please give attribution and make sure you follow the guidelines here carefully so we don’t have a disagreement. If it’s dope, @ us on social so we don't miss it!
