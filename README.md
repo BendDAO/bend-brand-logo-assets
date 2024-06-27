@@ -53,10 +53,10 @@ Blue is BendDAO’s brand color. It’s vibrant, saturated, slightly acidic, and
 ### Logo Restrictions
 Common sense stuff really.
 
-- Don’t move the icon to the left
-- Don’t remove the icon
-- Don’t change the text color
-- Don’t break up the name in the horizontal lockup (vertical lockup is unavoidable)
-- Don’t add drop shadows or distort the text
-- Don’t add outlines or other effects
+- Don’t move the icon to the left 
+- Don’t remove the icon 
+- Don’t change the text color 
+- Don’t break up the name in the horizontal lockup (vertical lockup is unavoidable) 
+- Don’t add drop shadows or distort the text 
+- Don’t add outlines or other effects 
 - Don’t change the typeface or otherwise reconstruct the logo
